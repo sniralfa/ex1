@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The coolest self chat ever</string>
+    <string name="send">Send</string>
+    <string name="message_text">Write a message</string>
+    <string name="name_text">What is your name</string>
+    <string name="send_button">Send</string>
+</resources>
